@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie_search_app</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="no_network_connection">Sorry! There is no network connection. Please try later!</string>
+
+    <string name="menu_main">Main</string>
+    <string name="menu_favorites">Favorites</string>
+
+    <string name="desc_home">Notification list</string>
+    <string name="movie_title">Movie title</string>
+    <string name="default_imdb_rating">IMDb rating: 7,4</string>
+    <string name="todo">TODO</string>
+    <string name="check_connection">Check connection</string>
+    <string name="welcome_to_the_app">Welcome to the app</string>
+</resources>
